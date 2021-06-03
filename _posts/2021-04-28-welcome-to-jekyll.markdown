@@ -1,7 +1,8 @@
 ---
 title: Everyone wears Supreme
 date: 2021-04-28 14:00:15 Z
-category: japan
+categories:
+- japan
 excerpt: One of the five supreme stores is locating in harajuku, Tokyo, and this store
   is a smaller one in Tokyo compared with the other one in Shibuya.
 image: "/assets/images/hanging.jpg"
