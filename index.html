@@ -1,0 +1,58 @@
+---
+---
+
+<script type="text/javascript">
+  function filterUsingCategory(selectedCategory) {
+    var id = 0;
+    {% for post in site.posts %}
+      var cats = {{ post.categories | jsonify }}
+
+      var postDiv = document.getElementById(++id);
+      postDiv.style.display = (selectedCategory == 'All' || cats.includes(selectedCategory)) 
+        ? 'unset' 
+        : 'none';
+    {% endfor %}
+  }
+</script>
+
+<div class="hero">
+</div> 
+
+<div class="hero-text">
+  <span >
+    <h1> nerdy nuggies </h1> 
+  <span>
+</div>
+
+<div class="filters-container">
+  <button id="All" class="filter-button" onclick="filterUsingCategory('All')"> all </button>
+  {% assign categories = site.categories | sort %}
+  {% for category in categories %}
+    {% assign cat = category | first %}
+    <button id="{{ cat }}" class="filter-button" onclick="filterUsingCategory(this.id)">{{ cat }}</button>
+  {% endfor %}
+</div>
+
+<div class="posts-container">
+  {% assign id = 0 %}
+  {% for post in site.posts %}
+    {% assign id = id | plus:1 %}
+
+   <div class="home-post col-lg-4 col-md-6 col-sm-12" id="{{id}}">
+      <div class="home-post-info ">
+          <a href="{{post.url}}">
+            <img src="{{ post.image }}" class="blog-home-image img-fluid">
+            <p class="capsule"> {{ post.category }} </p>
+            <p class="excerpt"> <span> {{ post.excerpt | truncatewords: 30 }} </span> </p> 
+          </a>
+      </div>
+            {% assign stringToCheck = ' ' %}
+            {% assign checkArray = post.ncomments | split:stringToCheck %}
+            {% unless checkArray[0] == '0' %}
+              {{ post.ncomments }}
+            {% endunless %}
+    </div>
+  {% endfor %}
+</div>
+
+
