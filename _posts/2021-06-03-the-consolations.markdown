@@ -4,7 +4,6 @@ date: 2021-06-03 11:58:00 Z
 permalink: the-consolations-of-philosophy
 categories:
 - philosophy
-- crazy
 excerpt: the consolations...
 image: 
 summary-title: the consolations of philosophy
