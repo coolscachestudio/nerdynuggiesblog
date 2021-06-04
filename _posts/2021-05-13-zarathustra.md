@@ -1,7 +1,7 @@
 ---
 title: thus spoke zarathustra
 date: 2021-04-28 14:00:15 Z
-category: philosophy
+category-type: philosophy
 excerpt: “Creation — that is the greatest redemption from suffering, and life’s easement. But that the creator may exist, that itself requires suffering and much transformation” 
 image: /assets/images/zarathustra.jpeg
 
