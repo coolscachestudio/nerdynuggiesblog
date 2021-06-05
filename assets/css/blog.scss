@@ -422,14 +422,17 @@ footer {
 @media only screen and (max-width: 480px) {
     .hero {
         margin: 0 12px;
+        animation: gradient 23s linear infinite;
+        height: 35vh;
     }
 
     .hero-text h1 {
-        height: 0.65em;
+        height: 0.5em;
     }
 
     .filters-container {
-        margin-bottom: 80px;
+        margin-bottom: 60px;
+        margin-top: 75px;
     }
 
     .filter-button {
@@ -444,7 +447,7 @@ footer {
         margin-bottom: 24px;
     }
     .post-header {
-        padding: 6px 12px;
+        padding: 0px 12px;
     }
 
     div.posts-container {
@@ -463,15 +466,19 @@ footer {
         margin: 0 12px;
     }
 
+    .gallery-cell {
+        height: 78vh;
+    }
+
     .flickity-prev-next-button.previous {
         left: auto!important;
-        right: 30px!important;
+        right: 20px!important;
         background: transparent!important;
     }
 
     .flickity-prev-next-button {
-        top: -44px!important;
-        right: -5px!important;
+        top: -38px!important;
+        right: -10px!important;
     }
 
     .post-starburst1 {
@@ -491,7 +498,7 @@ footer {
     }
 
     footer {
-        display: none;
-        //padding: 12px 10px;
+        //display: none;
+        margin-right: 12px;
     }
   }
