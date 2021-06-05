@@ -6,7 +6,7 @@ categories:
 - philosophy
 excerpt: the consolations...
 category-type: philosophy
-image: 
+image: "/uploads/the-consolations-of-philosophy.jpeg"
 summary-title: the consolations of philosophy
 summary-author: Alain de Botton
 summary: 'he he he '
