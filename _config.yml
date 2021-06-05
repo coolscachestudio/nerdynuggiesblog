@@ -30,7 +30,7 @@ defaults:
   values:
     layout: posts-15
 email: makalatrezise@gmail.com
-description: A blog to of nerdy nuggets to fuel your brain.
+description: Consume some nerdy nuggies to fuel your brain
 baseurl: 
 url: 
 theme: minima
@@ -39,7 +39,7 @@ plugins:
 - jekyll-seo-tag
 assets:
   sources: "-_assets/fonts"
-permalink: "/:title"
+permalink: "/blog/:title"
 section: true
 netlifycms: true
 analytics: false

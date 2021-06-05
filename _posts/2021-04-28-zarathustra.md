@@ -1,11 +1,15 @@
 ---
 title: thus spoke zarathustra
 date: 2021-04-28 14:00:00 Z
+permalink: "/thus-spoke-zarathustra"
 categories:
 - philosophy
 category-type: philosophy
-excerpt: "“Creation — that is the greatest redemption from suffering, and life’s easement.
-  But that the creator may exist, that itself requires suffering and much transformation”"
+excerpt: Friedrich Nietzsche's Thus Spoke Zarathustra, written in the years 1883 to
+  1885, is a pretty unusual book in the history of Western philosophy. It isn't really
+  a novel, it isn't really poetry, and it's not really a traditional philosophical
+  treatise. Thus Spoke Zarathustra is a philosophical parable that follows the wanderings
+  of a character called Zarathustra, a Nietzschean prophet.
 image: "/assets/images/zarathustra.jpeg"
 summary-title: thus spoke zarathustra
 summary-author: Friedrich Nietzsche

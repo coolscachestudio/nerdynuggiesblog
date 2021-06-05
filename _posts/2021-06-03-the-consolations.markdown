@@ -5,7 +5,8 @@ permalink: the-consolations-of-philosophy
 categories:
 - philosophy
 excerpt: the consolations...
-image: 
+category-type: philosophy
+image: "/uploads/the-consolations-of-philosophy.png"
 summary-title: the consolations of philosophy
 summary-author: Alain de Botton
 summary: 'he he he '
