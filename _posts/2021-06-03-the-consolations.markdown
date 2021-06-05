@@ -5,6 +5,7 @@ permalink: the-consolations-of-philosophy
 categories:
 - philosophy
 excerpt: the consolations...
+category-type: philosophy
 image: 
 summary-title: the consolations of philosophy
 summary-author: Alain de Botton
