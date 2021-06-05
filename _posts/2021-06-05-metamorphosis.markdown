@@ -22,6 +22,6 @@ summary: The Metamorphosis is a novella written by Franz Kafka which was first p
   alienated man. A harrowing—though absurdly comic—meditation on human feelings of
   inadequacy, guilt, and isolation, The Metamorphosis has taken its place as one of
   the most widely read and influential works of twentieth-century fiction.
-layout: posts-5
+layout: post-5
 ---
 
