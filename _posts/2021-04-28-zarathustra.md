@@ -1,11 +1,12 @@
 ---
 title: thus spoke zarathustra
-date: 2021-04-28 14:00:15 Z
+date: 2021-04-28 14:00:00 Z
+categories:
+- philosophy
 category-type: philosophy
 excerpt: "“Creation — that is the greatest redemption from suffering, and life’s easement.
   But that the creator may exist, that itself requires suffering and much transformation”"
 image: "/assets/images/zarathustra.jpeg"
-layout: posts-10
 summary-title: thus spoke zarathustra
 summary-author: Friedrich Nietzsche
 summary: Friedrich Nietzsche's Thus Spoke Zarathustra, written in the years 1883 to
@@ -85,5 +86,6 @@ para-10-thoughts: as a creative this quote resonates with me. i have found some 
   my best works to come from 'suffering.' as a creative this quote resonates with
   me. i have found some of my best works to come from 'suffering.' as a creative this
   quote resonates with me. i have found some of my best works to come from 'suffering.'
+layout: posts-10
 ---
 
