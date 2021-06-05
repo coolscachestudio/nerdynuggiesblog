@@ -36,6 +36,7 @@ url:
 theme: minima
 plugins:
 - jekyll-feed
+- jekyll-seo-tag
 assets:
   sources: "-_assets/fonts"
 permalink: "/blog/:title"
