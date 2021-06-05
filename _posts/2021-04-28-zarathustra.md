@@ -1,6 +1,7 @@
 ---
 title: thus spoke zarathustra
 date: 2021-04-28 14:00:00 Z
+permalink: "/thus-spoke-zarathustra"
 categories:
 - philosophy
 category-type: philosophy
