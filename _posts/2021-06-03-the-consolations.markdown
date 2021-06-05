@@ -13,7 +13,7 @@ excerpt: The Consolations of Philosophy sets out to refute the notion that good 
   well as to the practical utility of philosophy.
 category-type: philosophy
 image: "/uploads/the-consolations-of-philosophy.png"
-summary-title: the consolations of philosophy
+summary-title: The Consolations of Philosophy
 summary-author: Alain de Botton
 summary: The Consolations of Philosophy sets out to refute the notion that good philosophy
   must be irrelevant and gathers together six great philosophers who were convinced
