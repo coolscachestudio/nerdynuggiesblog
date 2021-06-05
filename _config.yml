@@ -30,7 +30,7 @@ defaults:
   values:
     layout: posts-15
 email: makalatrezise@gmail.com
-description: 'A blog to of nerdy nuggets to fuel your brain.'
+description: A blog to of nerdy nuggets to fuel your brain.
 baseurl: 
 url: 
 theme: minima
