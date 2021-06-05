@@ -13,7 +13,7 @@ excerpt: The Metamorphosis is a novella written by Franz Kafka which was first p
   the most widely read and influential works of twentieth-century fiction.
 category-type: philosophy
 image: "/uploads/metamorphosis.jpeg"
-summary-title: the metamorphosis
+summary-title: The Metamorphosis
 summary-author: Frank Kafka
 summary: The Metamorphosis is a novella written by Franz Kafka which was first published
   in 1915. One of Kafka's best-known works, The Metamorphosis tells the story of a
