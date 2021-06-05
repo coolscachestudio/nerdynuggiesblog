@@ -13,7 +13,7 @@ excerpt: For decades, we’ve been told that positive thinking is the key to a h
   spoiled a generation, rewarding them with gold medals just for showing up.
 category-type: self help
 image: "/uploads/the-subtle-art-of-not-giving-a-fuck.jpeg"
-summary-title: The Subtle Art of Not Giving a Fuck
+summary-title: the subtle art of not giving a fuck
 summary-author: Mark Manson
 summary: For decades, we’ve been told that positive thinking is the key to a happy,
   rich life. "F**k positivity," Mark Manson says. "Let’s be honest, shit is fucked
