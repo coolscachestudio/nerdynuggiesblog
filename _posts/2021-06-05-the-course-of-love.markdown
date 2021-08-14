@@ -13,6 +13,7 @@ excerpt: We all know the headiness and excitement of love’s early days, but wh
   bend and reform under the pressures of an average existence, and the magnificent,
   sometimes frightening, developments we can make as we slowly realise that love is
   in essence a skill we need to learn rather than an enthusiasm we simply experience.
+  !!!!
 image: "/uploads/the-course-of-love.jpeg"
 summary-title: the course of love
 summary-author: alain de botton
