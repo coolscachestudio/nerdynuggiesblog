@@ -3,7 +3,7 @@ title: the course of love
 date: 2021-06-05 07:42:00 Z
 permalink: "/the-course-of-love"
 categories:
-- philosophy
+- what
 category-type: philosophy
 excerpt: We all know the headiness and excitement of love’s early days, but what can
   be expected over a shared lifetime? We follow our couple – Rabih and Kristen – from
