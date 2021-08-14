@@ -1,5 +1,5 @@
 ---
-title: Nerdy Nuggies
+title: nerdy nuggies
 timezone: UTC
 collections:
   posts:
@@ -30,7 +30,7 @@ defaults:
   values:
     layout: posts-15
 email: makalatrezise@gmail.com
-description: Consume some nerdy nuggies to fuel your brain
+description: consume some nerdy nuggies to fuel your brain
 baseurl: 
 url: 
 theme: minima
